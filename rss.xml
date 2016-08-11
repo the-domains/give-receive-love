@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Give and Receive with Love]]></title>
         <description><![CDATA[Give and Receive with Love]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/give-receive-love/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 11 Aug 2016 16:35:04 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 11 Aug 2016 16:41:46 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/give-receive-love/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/93beea5b-7bfc-4845-84b8-561d050083de.png">]]></description>
-            <link>undefinedwelcome-to-the-first-post-of-givereceivelove/index.html</link>
+            <description><![CDATA[<p>Welcome to the first post of Give.Receive.Love</p>]]></description>
+            <link>https://thegrid.ai/give-receive-love/welcome-to-the-first-post-of-givereceivelove/index.html</link>
             <guid isPermaLink="false">8c46f633-3a7a-47f9-a453-830034815808</guid>
-            <pubDate>Thu, 11 Aug 2016 16:35:03 GMT</pubDate>
+            <pubDate>Thu, 11 Aug 2016 16:41:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
