@@ -5,20 +5,20 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Welcome to the first post of Give.Receive.Love
-datePublished: '2016-08-11T16:35:03.876Z'
-dateModified: '2016-08-11T16:34:50.630Z'
+datePublished: '2016-08-11T16:41:22.020Z'
+dateModified: '2016-08-11T16:41:12.448Z'
 title: ''
 author: []
 via: {}
+sourcePath: _posts/2016-08-11-welcome-to-the-first-post-of-givereceivelove.md
 authors: []
 publisher: {}
 starred: false
-sourcePath: _posts/2016-08-11-welcome-to-the-first-post-of-givereceivelove.md
 url: welcome-to-the-first-post-of-givereceivelove/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/93beea5b-7bfc-4845-84b8-561d050083de.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3f25184c-3cb7-4c9d-a563-ab27df22cc9a.jpg)
 
 Welcome to the first post of Give.Receive.Love
 
